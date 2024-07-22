@@ -3,7 +3,7 @@ module github.com/abutaha/aws-es-proxy
 go 1.22
 
 require (
-	github.com/aws/aws-sdk-go v1.53.5
+	github.com/aws/aws-sdk-go v1.54.20
 	github.com/sirupsen/logrus v1.9.3
 	go.mongodb.org/mongo-driver v1.15.0
 	golang.org/x/net v0.25.0
